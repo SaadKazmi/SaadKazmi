@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/SaadKazmi**
 
-- 🤝 I'm open to collaborating on **any interesting project.**
+- 🤝 I'm open to collaborating on **any interesting projects.**
 
 - 👨‍💻 I have an aptitude for **front/back-end website development.**
 
